@@ -1,1 +1,3 @@
-echo "OOP";
+<?php
+
+echo "OOPness!";
